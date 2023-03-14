@@ -1,11 +1,11 @@
-# Kaua Davi
-
+# **Kaua Davi**
 ***
-Edereco: XXXXXXXXX - Marilia - SP
-
+**Edereco:** XXXXXXXXX - Marilia - SP
 ***
-
-Experencia:
-
+**Experencia:**
+***
+**Idade:** 24 anos
+***
+**Experiência:** Conhece desenvolvimento em JavaScripit
 - nenhuma
 - SIIIIIIIIIIIIIIIIIIIIII
