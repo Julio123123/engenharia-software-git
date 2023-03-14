@@ -1,10 +1,9 @@
-# Kaua
-
+# **Kaua**
 ***
-Edereco: XXXXXXXXX - Marilia - SP
-
+**Edereco:** XXXXXXXXX - Marilia - SP
 ***
-
-Experencia:
-
-- nenhuma
+**Experencia:**
+***
+**Idade:** 24 anos
+***
+**Experiência:** Conhece desenvolvimento em JavaScripit
